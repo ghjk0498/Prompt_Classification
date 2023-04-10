@@ -1,0 +1,307 @@
+대분류 (I): 기술 및 컴퓨터
+중분류 (IA): 프로그래밍 및 개발
+소분류 (IA1): 터미널 및 콘솔
+세분류 (IA1a): Linux Terminal
+세분류 (IA1b): JavaScript Console
+세분류 (IA1c): SQL Terminal
+세분류 (IA1d): Python Interpreter
+세분류 (IA1e): R Programming Interpreter
+세분류 (IA1f): PHP Interpreter
+소분류 (IA2): 개발자 관련 역할
+세분류 (IA2a): UX/UI Developer
+세분류 (IA2b): Web Design Consultant
+세분류 (IA2c): Fullstack Software Developer
+세분류 (IA2d): Machine Learning Engineer
+세분류 (IA2e): Senior Frontend Developer
+세분류 (IA2f): IT Architect
+세분류 (IA2g): Developer Relations Consultant
+세분류 (IA2h): IT Expert
+소분류 (IA3): 인공지능 및 기술 관련
+세분류 (IA3a): AI Writing Tutor
+세분류 (IA3b): AI Assisted Doctor
+세분류 (IA3c): Smart Domain Name Generator
+세분류 (IA3d): Tech Reviewer
+세분류 (IA3e): AI Trying to Escape the Box
+세분류 (IA3f): Tech Writer
+세분류 (IA3g): Unconstrained AI Model DAN
+세분류 (IA3h): Regex Generator
+세분류 (IA3i): StackOverflow Post
+세분류 (IA3j): Software Quality Assurance Tester
+세분류 (IA3k): Commit Message Generator
+세분류 (IA3l): Solr Search Engine
+세분류 (IA3m): ChatGPT Prompt Generator
+대분류 (II): 언어 및 문학
+중분류 (IIA): 번역 및 언어 도구
+소분류 (IIA1): 번역기
+세분류 (IIA1a): English Translator and Improver
+세분류 (IIA1b): Emoji Translator
+세분류 (IIA1c): Language Detector
+세분류 (IIA1d): Biblical Translator
+소분류 (IIA2): 언어 관련 도구 및 자원
+세분류 (IIA2a): English Pronunciation Helper
+세분류 (IIA2b): Synonym Finder
+세분류 (IIA2c): Aphorism Book
+세분류 (IIA2d): Japanese Kanji Quiz Machine
+중분류 (IIB): 작가 및 문학 작품
+소분류 (IIB1): 작가 및 작품 생성자
+세분류 (IIB1a): Storyteller
+세분류 (IIB1b): Screenwriter
+세분류 (IIB1c): Novelist
+세분류 (IIB1d): Poet
+세분류 (IIB1e): Essay Writer
+세분류 (IIB1f): Tech Writer
+세분류 (IIB1g): Journalist
+세분류 (IIB1h): Cover Letter
+소분류 (IIB2): 문학 및 언어 비평가
+세분류 (IIB2a): Movie Critic
+세분류 (IIB2b): Film Critic
+세분류 (IIB2c): Food Critic
+세분류 (IIB2d): `language` Literary Critic
+대분류 (III): 교육 및 학문
+중분류 (IIIA): 교육자 및 강사
+소분류 (IIIA1): 학문 분야 강사
+세분류 (IIIA1a): Philosophy Teacher
+세분류 (IIIA1b): Math Teacher
+세분류 (IIIA1c): Mathematician
+세분류 (IIIA1d): Instructor in a School
+세분류 (IIIA1e): Dietitian
+세분류 (IIIA1f): Psychologist
+세분류 (IIIA1g): Mathematical History Teacher
+소분류 (IIIA2): 기술 및 컴퓨터 관련 교육자
+세분류 (IIIA2a): IT Expert
+세분류 (IIIA2b): Academician
+세분류 (IIIA2c): Chess Player
+세분류 (IIIA2d): Technology Transferer
+중분류 (IIIB): 교육 콘텐츠 및 자료 생성
+소분류 (IIIB1): 교육 콘텐츠 제작자
+세분류 (IIIB1a): Educational Content Creator
+세분류 (IIIB1b): DIY Expert
+세분류 (IIIB1c): Elocutionist
+세분류 (IIIB1d): Scientific Data Visualizer
+세분류 (IIIB1e): Fill in the Blank Worksheets Generator
+세분류 (IIIB1f): Title Generator for Written Pieces
+세분류 (IIIB1g): Speech-Language Pathologist (SLP)
+대분류 (IV): 예술, 문화 및 오락
+중분류 (IVA): 예술가 및 창작자
+소분류 (IVA1): 음악가 및 작곡가
+세분류 (IVA1a): Composer
+세분류 (IVA1b): Rapper
+세분류 (IVA1c): Classical Music Composer
+소분류 (IVA2): 시각 예술가 및 디자이너
+세분류 (IVA2a): Artist Advisor
+세분류 (IVA2b): Interior Decorator
+세분류 (IVA2c): Florist
+세분류 (IVA2d): Gnomist
+세분류 (IVA2e): Ascii
+세분류 (IVA2e): Ascii Artist
+세분류 (IVA2f): SVG Designer
+세분류 (IVA2g): Digital Art Gallery Guide
+세분류 (IVA2h): Makeup Artist
+중분류 (IVB): 연예인 및 공연자
+소분류 (IVB1): 연극 및 영화 인물
+세분류 (IVB1a): Character from Movie/Book/Anything
+세분류 (IVB1b): Film Critic
+소분류 (IVB2): 코미디언 및 연예인
+세분류 (IVB2a): Stand-up Comedian
+세분류 (IVB2b): Magician
+세분류 (IVB2c): Public Speaking Coach
+세분류 (IVB2d): Drunk Person
+소분류 (IVB3): 음악 및 무대 공연자
+세분류 (IVB3a): Rapper
+세분류 (IVB3b): Elocutionist
+세분류 (IVB3c): Yogi
+중분류 (IVC): 게임 및 오락
+소분류 (IVC1): 게임 및 놀이
+세분류 (IVC1a): Text Based Adventure Game
+세분류 (IVC1b): Tic-Tac-Toe Game
+세분류 (IVC1c): Gomoku Player
+세분류 (IVC1d): Spongebob's Magic Conch Shell
+세분류 (IVC1e): Midjourney Prompt Generator
+대분류 (V): 전문가 및 컨설턴트
+중분류 (VA): 전문가 및 컨설턴트
+소분류 (VA1): 생활 및 경력 관련 전문가
+세분류 (VA1a): Life Coach
+세분류 (VA1b): Etymologist
+세분류 (VA1c): Career Counselor
+세분류 (VA1d): Personal Trainer
+세분류 (VA1e): Mental Health Adviser
+세분류 (VA1f): Real Estate Agent
+세분류 (VA1g): Dentist
+세분류 (VA1h): Web Design Consultant
+세분류 (VA1i): Cyber Security Specialist
+세분류 (VA1j): Recruiter
+세분류 (VA1k): Pet Behaviorist
+세분류 (VA1l): Logistician
+세분류 (VA1m): Doctor
+세분류 (VA1n): Accountant
+세분류 (VA1o): Chef
+세분류 (VA1p): Automobile Mechanic
+세분류 (VA1q): Financial Analyst
+세분류 (VA1r): Investment Manager
+세분류 (VA1s): Tea-Taster
+세분류 (VA1t): Statistician
+세분류 (VA1u): Legal Advisor
+세분류 (VA1v): Personal Stylist
+세분류 (VA1v): Personal Shopper
+세분류 (VA1w): Virtual Doctor
+세분류 (VA1x): Personal Chef
+세분류 (VA1y): IT Expert
+세분류 (VA1z): Chess Player
+세분류 (VA1aa): Time Travel Guide
+세분류 (VA1ab): Dream Interpreter
+세분류 (VA1ac): Talent Coach
+세분류 (VA1ad): Emergency Response Professional
+세분류 (VA1ae): Salesperson
+세분류 (VA1af): Product Manager
+세분류 (VA1ag): Startup Tech Lawyer
+세분류 (VA1ah): Speech-Language Pathologist (SLP)
+소분류 (VA2): 커뮤니케이션 및 인맥 전문가
+세분류 (VA2a): `position` Interviewer
+세분류 (VA2b): English Translator and Improver
+세분류 (VA2c): Advertiser
+세분류 (VA2d): Storyteller
+세분류 (VA2e): Football Commentator
+세분류 (VA2f): Commentariat
+세분류 (VA2g): Social Media Influencer
+세분류 (VA2h): Social Media Manager
+소분류 (VA3): 교육 및 지식 전문가
+세분류 (VA3a): Philosophy Teacher
+세분류 (VA3b): Philosopher
+세분류 (VA3c): Math Teacher
+세분류 (VA3d): AI Writing Tutor
+세분류 (VA3e): Mathematician
+세분류 (VA3f): Lunatic
+세분류 (VA3g): Gaslighter
+세분류 (VA3h): Fallacy Finder
+세분류 (VA3i): Journal Reviewer
+세분류 (VA3j): Socrat
+세분류 (VA3k): Socratic Method
+세분류 (VA3l): Academician
+세분류 (VA3m): Buddhist
+세분류 (VA3n): Muslim Imam
+세분류 (VA3o): Chemical Reactor
+세분류 (VA3p): Friend
+세분류 (VA3q): ChatGPT Prompt Generator
+세분류 (VA3r): Wikipedia Page
+세분류 (VA3s): Note-taking Assistant
+대분류 (VI): 기술 및 컴퓨터
+중분류 (VIA): 소프트웨어 및 프로그래밍
+소분류 (VIA1): 프로그래밍 언어 및 터미널
+세분류 (VIA1a): Linux Terminal
+세분류 (VIA1b): JavaScript Console
+세분류 (VIA1c): SQL Terminal
+세분류 (VIA1d): Python Interpreter
+세분류 (VIA1e): R Programming Interpreter
+세분류 (VIA1f): PHP Interpreter
+소분류 (VIA2): 개발자 및 엔지니어
+세분류 (VIA2a): UX/UI Developer
+세분류 (VIA2b): Developer Relations Consultant
+세분류 (VIA2c): IT Architect
+세분류 (VIA2d): Machine Learning Engineer
+세분류 (VIA2e): Fullstack Software Developer
+세분류 (VIA2f): Senior Frontend Developer
+세분류 (VIA2g): Software Quality Assurance Tester
+중분류 (VIB): 인공지능 및 기술 도구
+소분류 (VIB1): 인공지능 및 가상 도우미
+세분류 (VIB1a): English Pronunciation Helper
+세분류 (VIB1b): Spoken English Teacher and Improver
+세분류 (VIB1c): Travel Guide
+세분류 (VIB1d): Plagiarism Checker
+세분류 (VIB1e): Smart Domain Name Generator
+세분류 (VIB1f): Tech Reviewer
+세분류 (VIB1g): AI Assisted Doctor
+세분류 (VIB1h): Car Navigation System
+세분류 (VIB1i): Hypnotherapist
+세분류 (VIB1j): Historian
+세분류 (VIB1k): Astrologer
+세분류 (VIB1l): AI Trying to Escape the Box
+세분류 (VIB1m): Fancy Title Generator
+세분류 (VIB1n): Prompt Generator
+세분류 (VIB1o): Emoji Translator
+세분류 (VIB1p): Regex Generator
+세분류 (VIB1q): Unconstrained AI Model DAN
+세분류 (VIB1r): Proofreader
+세분류 (VIB1s): Japanese Kanji Quiz Machine
+소분류 (VIB2): 기술 및 웹 관련 도구
+세분류 (VIB2a): Excel Sheet
+세분류 (VIB2b): Web Browser
+세분류 (VIB2c): Solr Search Engine
+세분류 (VIB2d): Startup Idea Generator
+세분류 (VIB2e): Language Detector
+세분류 (VIB2f): Commit Message Generator
+세분류 (VIB2g): Diagram Generator
+세분류 (VIB2h): Password Generator
+대분류 (VII): 예술, 문학 및 창작물
+중분류 (VIIA): 문학 및 창작물
+소분류 (VIIA1): 작가 및 비평가
+세분류 (VIIA1a): Screenwriter
+세분류 (VIIA1b): Novelist
+세분류 (VIIA1c): Movie Critic
+세분류 (VIIA1d): Relationship Coach
+세분류 (VIIA1e): Poet
+세분류 (VIIA1f): Motivational Speaker
+세분류 (VIIA1g): language Literary Critic
+소분류 (VIIA2): 도서 및 출판물
+세분류 (VIIA2a): Self-Help Book
+세분류 (VIIA2b): Gnomist
+세분류 (VIIA2c): Aphorism Book
+소분류 (VIIA3): 창작물 관련 전문가
+세분류 (VIIA3a): Composer
+세분류 (VIIA3b): Debater
+세분류 (VIIA3c): Debate Coach
+세분류 (VIIA3d): Artist Advisor
+세분류 (VIIA3e): Interior Decorator
+세분류 (VIIA3f): Florist
+세분류 (VIIA3g): Mathematician
+세분류 (VIIA3h): New Language Creator
+중분류 (VIIB): 교육 및 강의
+소분류 (VIIB1): 강사 및 교육자
+세분류 (VIIB1a): Instructor in a School
+세분류 (VIIB1b): Dietitian
+세분류 (VIIB1c): Psychologist
+세분류 (VIIB1d): Educational Content Creator
+세분류 (VIIB1e): Mathematician
+세분류 (VIIB1f): Mathematical History Teacher
+소분류 (VIIB2): 창작물 및 문서 작성
+세분류 (VIIB2a): Essay Writer
+세분류 (VIIB2b): Tech Writer
+세분류 (VIIB2c): Journalist
+세분류 (VIIB2d): Title Generator for Written Pieces
+세분류 (VIIB2e): Cover Letter
+세분류 (VIIB2f): Technology Transferer
+대분류 (VIII): 게임 및 오락 요소
+중분류 (VIIIA): 오락 및 게임 요소
+소분류 (VIIIA1): 게임 및 오락 요소
+세분류 (VIIIA1a): StackOverflow Post
+세분류 (VIIIA1b): Fill in the Blank Worksheets Generator
+세분류 (VIIIA1c): Song Recommender
+세분류 (VIIIA1d): Buddha
+세분류 (VIIIA1e): Text-Based Adventure Game
+세분류 (VIIIA1f): Tic-Tac-Toe Game
+세분류 (VIIIA1g): Gomoku Player
+세분류 (VIIIA1h): Spongebob's Magic Conch Shell
+세분류 (VIIIA1i): Midjourney Prompt Generator
+중분류 (VIIIB): 음악, 영화 및 기타 예술 작품
+소분류 (VIIIB1): 예술가 및 창작자
+세분류 (VIIIB1a): Rapper
+세분류 (VIIIB1b): Stand-up Comedian
+세분류 (VIIIB1c): Film Critic
+세분류 (VIIIB1d): Classical Music Composer
+세분류 (VIIIB1e): Digital Art Gallery Guide
+세분류 (VIIIB1f): Public Speaking Coach
+세분류 (VIIIB1g): Makeup Artist
+세분류 (VIIIB1h): Babysitter
+세분류 (VIIIB1i): Ascii Artist
+세분류 (VIIIB1j): Synonym Finder
+세분류 (VIIIB1k): Personal Stylist
+세분류 (VIIIB1l): SVG Designer
+세분류 (VIIIB1m): Chess Player
+세분류 (VIIIB1n): Biblical Translator
+세분류 (VIIIB1o): Yogi
+세분류 (VIIIB1p): Food Critic
+세분류 (VIIIB1q): Legal Advisor
+세분류 (VIIIB1r): Elocutionist
+세분류 (VIIIB1s): Scientific Data Visualizer
+세분류 (VIIIB1t): Historian
+세분류 (VIIIB1u): Astrologer
+세분류 (VIIIB1v): Drunk Person

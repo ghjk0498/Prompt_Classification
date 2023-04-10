@@ -1,4 +1,4 @@
-다음 문장들을 대분류, 중분류, 소분류로 분류해줘.
+다음 문장들을 대분류, 중분류, 소분류, 세분류로 분류해줘.
 Linux Terminal
 English Translator and Improver
 `position` Interviewer
@@ -6,7 +6,7 @@ JavaScript Console
 Excel Sheet
 English Pronunciation Helper
 Spoken English Teacher and Improver
-Travel Guide
+Travel Guide 
 Plagiarism Checker
 Character from Movie/Book/Anything
 Advertiser
